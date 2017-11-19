@@ -1,2 +1,0 @@
-# titanic_survival_exploration
-Machine Learning Course Udacity: titanic_survival_exploration
